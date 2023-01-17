@@ -29,6 +29,7 @@ label{
     align-items: center;  
     background-color: grey; 
     padding:10px 38px; 
+    border-radius: 15px;
 }
 input{
    height: 32px;
