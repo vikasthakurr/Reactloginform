@@ -5,7 +5,7 @@ import './LoginForm.css';
 const LoginForm = () => {
    return (
       <div className="login">
-      <h2>Login Form</h2>
+      <h2>SignIn Form</h2>
       <form action="">
          <label>User Name: </label>
          <input type="text" placeholder='Name'/>
