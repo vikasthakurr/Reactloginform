@@ -1,0 +1,36 @@
+.login{  
+        width: 420px;  
+        height: fit-content;
+        overflow: hidden;  
+        margin: auto;  
+        margin: 115px 0 0 560px;  
+        padding: 80px;  
+        background: #23463f;  
+        border-radius: 15px; 
+          
+} 
+form{
+   margin-top: 50px;
+   margin-left: 27px;
+   
+} 
+h2{  
+    text-align: center;  
+    color: #fff;
+    margin-top: -50px; 
+    text-decoration: underline #fff;   
+}  
+label{  
+    color: #fff;  
+    font-size: 15px;  
+}  
+  
+.btn{  
+    align-items: center;  
+    background-color: grey; 
+    padding:10px 38px; 
+}
+input{
+   height: 32px;
+
+}
